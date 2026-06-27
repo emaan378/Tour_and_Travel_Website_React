@@ -16,7 +16,7 @@ function Navbar() {
 
             {/* ✅ Hamburger menu icon */}
             <div className="menu-icons"
-                onClick={handleClick} // ✅ click pe toggle
+                onClick={handleClick} // ✅ click pe tog gle
             >
                 <i  className={clicked ? "fas fa-times" : "fas fa-bars"}></i>
             </div>
