@@ -1,6 +1,5 @@
 import React from 'react'
 import Hero from '../Components/Hero';
-import About from './About';
 import Trip from '../Components/Trip';
 import Destination from '../Components/Destination';
 import Footer from '../Components/Footer';
